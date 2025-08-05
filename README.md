@@ -8,7 +8,7 @@ I'm a Computer Engineering student from Brazil.
 
 * 🎓 Second-year (4th period) Computer Engineering student at the **[Universidade Federal de Itajubá (UNIFEI)](https://unifei.edu.br/)**.
 
-* 🐝 Member of the Software Team at **[Black Bee Drones]**.
+* 🐝 Member of the Software Team at **[Black Bee Drones](https://github.com/Black-Bee-Drones)**.
 
 * 🚀 Currently focused on deepening my knowledge in C++ for performance-critical applications and exploring automation with Python.
 
