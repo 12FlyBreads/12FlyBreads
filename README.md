@@ -39,6 +39,6 @@ Feel free to connect with me!
 
 ### 📊 My GitHub Stats
 
-![Artur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Artur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=12FlyBreads&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12FlyBreads&layout=compact&theme=tokyonight&hide_border=true)
