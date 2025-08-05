@@ -1,4 +1,4 @@
-# Hi there, I'm Artur Gomes Simão 👋
+# Hi there, I'm Artur Simão 👋
 
 I'm a Computer Engineering student from Brazil.
 
