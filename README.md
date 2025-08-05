@@ -16,7 +16,7 @@ I'm a Computer Engineering student from Brazil.
 
 ### 🛠️ My Tech Stack
 
-Here are the languages I work with:
+Here are the languages I work/learn with:
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
