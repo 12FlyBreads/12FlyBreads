@@ -28,10 +28,7 @@ Here are the languages I work with:
 
 Feel free to connect with me!
 
-<a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/artursimao](https://www.linkedin.com/in/artur-sim%C3%A3o-9a1ab7378/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturgsimao@gmail.com)
 
 ---
