@@ -32,10 +32,17 @@ Computer Engineering student at [UNIFEI](https://unifei.edu.br/) | Software Team
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=12FlyBreads&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12FlyBreads&layout=compact&theme=tokyonight&hide_border=true" />
+  <!-- Commit Stats -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=12FlyBreads&show_icons=true&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=12FlyBreads&theme=tokyonight&hide_border=true" />
+  <!-- Streak Stats -->
+  <img height="165" src="https://streak-stats.demolab.com?user=12FlyBreads&theme=vision-friendly-dark&hide_border=false" />
 </p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12FlyBreads&layout=compact&theme=vision-friendly-dark&hide_border=false" />
+</p>
+
