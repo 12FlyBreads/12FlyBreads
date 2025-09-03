@@ -6,16 +6,18 @@ Computer Engineering student at [UNIFEI](https://unifei.edu.br/) | Software Team
 
 ## 🛠️ Tech Stack  
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+</p>
 
 ---
 
 ## 📫 Connect with Me  
 
-<p align="left">
+<p align="center">
   <a href="mailto:arturgsimao@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="35px"/>
   </a>
@@ -45,4 +47,3 @@ Computer Engineering student at [UNIFEI](https://unifei.edu.br/) | Software Team
   <!-- Top Languages -->
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12FlyBreads&layout=compact&theme=vision-friendly-dark&hide_border=false" />
 </p>
-
