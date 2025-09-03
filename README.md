@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Artur Simão  
+# # <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="40px"/> Hi, I'm Artur Simão  
 
 Computer Engineering student at [UNIFEI](https://unifei.edu.br/) | Software Team @ [Black Bee Drones](https://github.com/Black-Bee-Drones)  
 
