@@ -17,13 +17,13 @@ Computer Engineering student at [UNIFEI](https://unifei.edu.br/) | Software Team
 
 <p align="left">
   <a href="mailto:arturgsimao@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="35px" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="35px"/>
   </a>
   <a href="https://www.linkedin.com/in/artur-sim%C3%A3o-9a1ab7378/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="35px" />
+    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="35px"/>
   </a>
   <a href="https://www.instagram.com/artursimaoo_/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="35px" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="35px"/>
   </a>
 </p>
 
@@ -33,3 +33,4 @@ Computer Engineering student at [UNIFEI](https://unifei.edu.br/) | Software Team
 
 ![Artur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=12FlyBreads&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12FlyBreads&layout=compact&theme=tokyonight&hide_border=true)  
+=tokyonight&hide_border=true)  
