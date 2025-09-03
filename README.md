@@ -15,9 +15,17 @@ Computer Engineering student at [UNIFEI](https://unifei.edu.br/) | Software Team
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-sim%C3%A3o-9a1ab7378/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arturgsimao@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/artursimaoo_/)
+<p align="left">
+  <a href="mailto:arturgsimao@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="35px"/>
+  </a>
+  <a href="https://www.linkedin.com/in/artur-sim%C3%A3o-9a1ab7378/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35px"/>
+  </a>
+  <a href="https://www.instagram.com/artursimaoo_/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="35px"/>
+  </a>
+</p>
 
 ---
 
@@ -25,4 +33,3 @@ Computer Engineering student at [UNIFEI](https://unifei.edu.br/) | Software Team
 
 ![Artur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=12FlyBreads&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12FlyBreads&layout=compact&theme=tokyonight&hide_border=true)  
-
