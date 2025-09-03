@@ -31,6 +31,7 @@ Computer Engineering student at [UNIFEI](https://unifei.edu.br/) | Software Team
 
 ## 📊 GitHub Stats  
 
-![Artur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=12FlyBreads&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12FlyBreads&layout=compact&theme=tokyonight&hide_border=true)  
-=tokyonight&hide_border=true)  
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=12FlyBreads&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12FlyBreads&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
