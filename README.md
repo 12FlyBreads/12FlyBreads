@@ -8,7 +8,7 @@ Computer Engineering student at [UNIFEI](https://unifei.edu.br/) | Software Team
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="50px" />
-  <img src="https://commons.wikimedia.org/wiki/File:ISO_C%2B%2B_Logo.svg#/media/File:ISO_C++_Logo.svg" alt="C++" width="50px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50px" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50px" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50px" />
 </p>
