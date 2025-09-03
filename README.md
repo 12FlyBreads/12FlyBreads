@@ -4,7 +4,7 @@ Computer Engineering student at [UNIFEI](https://unifei.edu.br/) | Software Team
 
 ---
 
-## 🛠️ Tech Stack  
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
@@ -15,7 +15,7 @@ Computer Engineering student at [UNIFEI](https://unifei.edu.br/) | Software Team
 
 ---
 
-## 📫 Connect with Me  
+<h2 align="center">📫 Connect with Me</h2>
 
 <p align="center">
   <a href="mailto:arturgsimao@gmail.com">
@@ -31,7 +31,7 @@ Computer Engineering student at [UNIFEI](https://unifei.edu.br/) | Software Team
 
 ---
 
-## 📊 GitHub Stats  
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <!-- Commit Stats -->
