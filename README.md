@@ -33,13 +33,13 @@ Computer Engineering student at [UNIFEI](https://unifei.edu.br/) | Software Team
 
 <p align="center">
   <a href="mailto:arturgsimao@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="35px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="50px"/>
   </a>
   <a href="https://www.linkedin.com/in/artur-sim%C3%A3o-9a1ab7378/">
-    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="35px"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="50px"/>
   </a>
   <a href="https://www.instagram.com/artursimaoo_/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="35px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="50px"/>
   </a>
 </p>
 
