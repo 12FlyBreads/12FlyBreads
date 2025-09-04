@@ -4,10 +4,10 @@ Computer Engineering student at [UNIFEI](https://unifei.edu.br/) | Software Team
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center"><img src="https://media.tenor.com/-m5jV3hzQfcAAAAi/hammer-and-wrench.gif" width="40px"/> Tech Stack</h2>
 
 <!-- Linguagens -->
-<h3 align="center">📚 Languages</h3>
+<h3 align="center"><img src="https://media.tenor.com/IvUuNwTzqEgAAAAi/books-emoji.gif" width="40px"/> Languages</h3>
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="50px" />
@@ -17,19 +17,19 @@ Computer Engineering student at [UNIFEI](https://unifei.edu.br/) | Software Team
 </p>
 
 <!-- Ferramentas -->
-<h3 align="center">⚙️ Tools</h3>
+<h3 align="center"><img src="https://media.tenor.com/8YVw8eWv-6EAAAAi/gear.gif" width="40px"/> Tools</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="50px" />
-  <!-- ROS 2: recomenda-se usar o logo ROS para representar ROS 2 -->
+  <!-- ROS 2 -->
   <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo.svg" alt="ROS 2" width="90px" />
-  <!-- Linux (substituindo Ubuntu) -->
+  <!-- Linux -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50px" />
 </p>
 
 ---
 
-<h2 align="center">📫 Connect with Me</h2>
+<h2 align="center"><img src="https://media.tenor.com/cX92mi1p-NYAAAAi/mail-email.gif" width="40px"/> Connect with Me</h2>
 
 <p align="center">
   <a href="mailto:arturgsimao@gmail.com">
@@ -45,7 +45,7 @@ Computer Engineering student at [UNIFEI](https://unifei.edu.br/) | Software Team
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center"><img src="https://media.tenor.com/nD8E70YJ0JIAAAAi/bar-chart-growth.gif" width="40px"/> GitHub Stats</h2>
 
 <p align="center">
   <!-- Commit Stats -->
