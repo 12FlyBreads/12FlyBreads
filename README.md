@@ -7,7 +7,7 @@ Computer Engineering student at [UNIFEI](https://unifei.edu.br/) | Software Team
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <!-- Linguagens -->
-<h3 align="center">📚 Linguagens</h3>
+<h3 align="center">📚 Languages</h3>
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="50px" />
@@ -17,7 +17,7 @@ Computer Engineering student at [UNIFEI](https://unifei.edu.br/) | Software Team
 </p>
 
 <!-- Ferramentas -->
-<h3 align="center">⚙️ Ferramentas</h3>
+<h3 align="center">⚙️ Tools</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="50px" />
