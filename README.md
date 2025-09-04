@@ -21,8 +21,10 @@ Computer Engineering student at [UNIFEI](https://unifei.edu.br/) | Software Team
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="50px" />
-  <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo/ros2/ros2.svg" alt="ROS 2" width="90px" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="50px" />
+  <!-- ROS 2: recomenda-se usar o logo ROS para representar ROS 2 -->
+  <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo.svg" alt="ROS 2" width="90px" />
+  <!-- Linux (substituindo Ubuntu) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50px" />
 </p>
 
 ---
