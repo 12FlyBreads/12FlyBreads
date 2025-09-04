@@ -6,11 +6,23 @@ Computer Engineering student at [UNIFEI](https://unifei.edu.br/) | Software Team
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
+<!-- Linguagens -->
+<h3 align="center">📚 Linguagens</h3>
+
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="50px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50px" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50px" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50px" />
+</p>
+
+<!-- Ferramentas -->
+<h3 align="center">⚙️ Ferramentas</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="50px" />
+  <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo/ros2/ros2.svg" alt="ROS 2" width="90px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="50px" />
 </p>
 
 ---
