@@ -53,11 +53,6 @@ Computer Engineering student at [UNIFEI](https://unifei.edu.br/) | Software Team
 </p>
 
 <p align="center">
-  <!-- Streak Stats -->
-  <img height="165" src="https://streak-stats.demolab.com?user=12FlyBreads&theme=vision-friendly-dark&hide_border=false" />
-</p>
-
-<p align="center">
   <!-- Top Languages -->
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12FlyBreads&layout=compact&theme=vision-friendly-dark&hide_border=false" />
 </p>
