@@ -6,48 +6,29 @@ Computer Engineering student at [UNIFEI](https://unifei.edu.br/) | Software Team
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:28px;max-width:980px;margin:0 auto;">
-  <!-- Tools (esquerda) -->
-  <div style="min-width:220px;flex:0 1 420px;border-radius:8px;padding:14px;">
+<div align="center" style="display: flex; justify-content: center; gap: 80px;">
+  
+  <!-- Tools -->
+  <div>
     <h3 align="center">⚙️ Tools</h3>
-    <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:14px;">
-      <figure style="margin:6px;text-align:center;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="56" />
-        <figcaption style="font-size:12px">Raspberry Pi</figcaption>
-      </figure>
-      <figure style="margin:6px;text-align:center;">
-        <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo.svg" alt="ROS 2" width="80" />
-        <figcaption style="font-size:12px">ROS 2</figcaption>
-      </figure>
-      <figure style="margin:6px;text-align:center;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="56" />
-        <figcaption style="font-size:12px">Linux</figcaption>
-      </figure>
-    </div>
+    <p align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="50px" />
+      <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo.svg" alt="ROS 2" width="90px" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50px" />
+    </p>
   </div>
 
-  <!-- Languages (direita) -->
-  <div style="min-width:220px;flex:0 1 420px;border-radius:8px;padding:14px;">
+  <!-- Languages -->
+  <div>
     <h3 align="center">📚 Languages</h3>
-    <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:14px;">
-      <figure style="margin:6px;text-align:center;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="56" />
-        <figcaption style="font-size:12px">C</figcaption>
-      </figure>
-      <figure style="margin:6px;text-align:center;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="56" />
-        <figcaption style="font-size:12px">C++</figcaption>
-      </figure>
-      <figure style="margin:6px;text-align:center;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="56" />
-        <figcaption style="font-size:12px">Python</figcaption>
-      </figure>
-      <figure style="margin:6px;text-align:center;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="56" />
-        <figcaption style="font-size:12px">Java</figcaption>
-      </figure>
-    </div>
+    <p align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="50px" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50px" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50px" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50px" />
+    </p>
   </div>
+
 </div>
 
 ---
