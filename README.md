@@ -6,26 +6,30 @@ Computer Engineering student at [UNIFEI](https://unifei.edu.br/) | Software Team
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<!-- Linguagens -->
-<h3 align="center">📚 Languages</h3>
+<table align="center">
+  <tr>
+    <!-- Tools -->
+    <td align="center" width="50%">
+      <h3>⚙️ Tools</h3>
+      <p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="50px" />
+        <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo.svg" alt="ROS 2" width="90px" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50px" />
+      </p>
+    </td>
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="50px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50px" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50px" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50px" />
-</p>
-
-<!-- Ferramentas -->
-<h3 align="center">⚙️ Tools</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="50px" />
-  <!-- ROS 2: recomenda-se usar o logo ROS para representar ROS 2 -->
-  <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo.svg" alt="ROS 2" width="90px" />
-  <!-- Linux (substituindo Ubuntu) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50px" />
-</p>
+    <!-- Languages -->
+    <td align="center" width="50%">
+      <h3>📚 Languages</h3>
+      <p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="50px" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50px" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50px" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50px" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -33,13 +37,13 @@ Computer Engineering student at [UNIFEI](https://unifei.edu.br/) | Software Team
 
 <p align="center">
   <a href="mailto:arturgsimao@gmail.com" style="margin: 0 10;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="80px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="50px"/>
   </a>
   <a href="https://www.linkedin.com/in/artur-sim%C3%A3o-9a1ab7378/" style="margin: 0 10;">
-    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="80px"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="50px"/>
   </a>
   <a href="https://www.instagram.com/artursimaoo_/" style="margin: 0 10;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="80px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="50px"/>
   </a>
 </p>
 
