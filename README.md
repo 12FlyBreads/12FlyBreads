@@ -6,30 +6,14 @@ Computer Engineering student at [UNIFEI](https://unifei.edu.br/) | Software Team
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<div align="center" style="display: flex; justify-content: center; gap: 80px;">
-  
-  <!-- Tools -->
-  <div>
-    <h3 align="center">⚙️ Tools</h3>
-    <p align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="50px" />
-      <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo.svg" alt="ROS 2" width="90px" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50px" />
-    </p>
-  </div>
+<div align="center">
 
-  <!-- Languages -->
-  <div>
-    <h3 align="center">📚 Languages</h3>
-    <p align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="50px" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50px" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50px" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50px" />
-    </p>
-  </div>
+| Languages | Systems & Tools |
+|-----------|-----------------|
+| [![C](https://skillicons.dev/icons?i=c)](https://www.open-std.org/jtc1/sc22/wg14/) [![C++](https://skillicons.dev/icons?i=cpp)](https://cplusplus.com) [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org) [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/) | [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com) [![Linux](https://skillicons.dev/icons?i=linux)](https://www.kernel.org) [![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.com) [![ROS](https://skillicons.dev/icons?i=ros&theme=dark)](https://www.ros.org) [![OpenCV](https://skillicons.dev/icons?i=opencv&theme=dark)](https://opencv.org) |
 
 </div>
+
 
 ---
 
