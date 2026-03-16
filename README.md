@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Artur Simão
 
-Computer Engineering student at [UNIFEI](https://unifei.edu.br/) | Software Team @ [Black Bee Drones](https://github.com/Black-Bee-Drones)  
+Computer Engineering student at [UNIFEI](https://unifei.edu.br/) | 
 
 ---
 
