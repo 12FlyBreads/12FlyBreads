@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Artur Simão
 
-Computer Engineering student at [UNIFEI](https://unifei.edu.br/) | 
+Computer Engineering student at [UNIFEI](https://unifei.edu.br/)
 
 ---
 
