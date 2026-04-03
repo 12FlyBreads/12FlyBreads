@@ -20,7 +20,7 @@ Computer Engineering student at [UNIFEI](https://unifei.edu.br/)
 
 <div align="center">
 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/artursimaoo_/) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](linkedin.com/in/artur-simão) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:arturgsimao@gmail.com)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/artursimaoo_/) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/artur-simão) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:arturgsimao@gmail.com)
 
 </div>
 
