@@ -25,15 +25,14 @@ Computer Engineering student at [UNIFEI](https://unifei.edu.br/)
 </div>
 
 ---
-
+<!-- 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <!-- Commit Stats -->
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=12FlyBreads&show_icons=true&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12FlyBreads&layout=compact&theme=vision-friendly-dark&hide_border=false" />
 </p>
+-->
