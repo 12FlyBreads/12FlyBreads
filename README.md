@@ -1,10 +1,7 @@
-```json
+<pre>
 {
   "name": "Artur Simão",
-  "education": {
-    "degree": "Computer Engineering",
-    "university": "Universidade Federal de Itajubá (UNIFEI)"
-  }
+  "education": "Computer Engineering student at UNIFEI",
   "tech_stack": {
     "languages": [
       "C", 
@@ -21,9 +18,9 @@
     ]
   },
   "contact": {
-    "instagram": "https://www.instagram.com/artursimaoo_/",
-    "linkedin": "https://linkedin.com/in/artur-simão",
-    "email": "arturgsimao@gmail.com"
+    "instagram": "<a href="[https://www.instagram.com/artursimaoo_/](https://www.instagram.com/artursimaoo_/)">@artursimaoo_</a>",
+    "linkedin": "<a href="[https://linkedin.com/in/artur-simão](https://linkedin.com/in/artur-simão)">artur-simão</a>",
+    "email": "<a href="mailto:arturgsimao@gmail.com">arturgsimao@gmail.com</a>"
   }
 }
-```
+</pre>
