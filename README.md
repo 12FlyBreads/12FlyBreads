@@ -18,8 +18,8 @@
     ]
   },
   "contact": {
-    "instagram": "<a href="[https://www.instagram.com/artursimaoo_/](https://www.instagram.com/artursimaoo_/)">@artursimaoo_</a>",
-    "linkedin": "<a href="[https://linkedin.com/in/artur-simão](https://linkedin.com/in/artur-simão)">artur-simão</a>",
+    "instagram": "<a href="https://www.instagram.com/artursimaoo_/">@artursimaoo_</a>",
+    "linkedin": "<a href="https://linkedin.com/in/artur-simão">artur-simão</a>",
     "email": "<a href="mailto:arturgsimao@gmail.com">arturgsimao@gmail.com</a>"
   }
 }
